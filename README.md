@@ -92,3 +92,15 @@ We will work [HuggingFace](https://huggingface.co/)'s powerful [transformers](h
 
 https://app.layer.ai/kaankarakeben/united-nations-ner-finetuning/models/bert-base-uncased-tokenizer
 https://app.layer.ai/kaankarakeben/united-nations-ner-finetuning/models/un_ner_fine-tuned_bert
+
+```
+@misc{leslie-huang,
+  author = {Huang, Leslie},
+  title = {UN-named-entity-recognition},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/leslie-huang/UN-named-entity-recognition}},
+  commit = {5cb5c5fbacc607542a900d9eff016f9ce4647c9c}
+}
+```
