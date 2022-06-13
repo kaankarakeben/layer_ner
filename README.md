@@ -1,6 +1,6 @@
 # Fine Tuning BERT For Named Entity Recognition On United Nations Documents
 
-[![Open in Layer](https://development.layer.co/assets/badge.svg)](https://app.layer.ai/kaankarakeben/united_nations_ner-finetuning)
+[![Open in Layer](https://development.layer.co/assets/badge.svg)](https://app.layer.ai/kaankarakeben/united-nations-ner-finetuning)
 [![Layer NER](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/kaankarakeben/layer_ner)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zkmCzzdOt4suAEPdQqN6uIWIHXTP-hNn?)
 
